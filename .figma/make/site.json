@@ -1,0 +1,18 @@
+{
+  "title": "HAMELIN | Orquestração de Agentes de IA",
+  "description": "Conheça HAMELIN, uma plataforma em desenvolvimento para coordenar agentes de IA em fluxos de estratégia, execução e revisão.",
+  "language": "pt-BR",
+  "icons": {
+    "icon": "/hamelin-mascot.png"
+  },
+  "openGraph": {
+    "image": "/hamelin-mascot.png"
+  },
+  "robots": {
+    "index": true
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
